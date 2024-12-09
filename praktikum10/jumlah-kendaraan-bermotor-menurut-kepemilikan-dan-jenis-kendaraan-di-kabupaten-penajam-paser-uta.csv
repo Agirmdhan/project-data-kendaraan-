@@ -1,0 +1,37 @@
+_id,Uraian,Satuan,Negara,Swasta,Jenis Kendaraan,Kategori Kendaraan,Tahun
+1,Sedan,Unit,0,0,Mobil Penumpang,Tidak Umum,2023
+2,Jeep,Unit,0,76,Mobil Penumpang,Tidak Umum,2023
+3,Station Wagon,Unit,0,0,Mobil Penumpang,Tidak Umum,2023
+4,Mini Cab,Unit,96,1691,Mobil Penumpang,Tidak Umum,2023
+5,Ambulance,Unit,0,0,Mobil Penumpang,Tidak Umum,2023
+6,Truk/Kontainer,Unit,10,440,Mobil Barang,Tidak Umum,2023
+7,Double Cabin,Unit,34,248,Mobil Barang,Tidak Umum,2023
+8,Barang,Unit,0,0,Mobil Barang,Tidak Umum,2023
+9,Trailer,Unit,0,0,Mobil Barang,Tidak Umum,2023
+10,Truk Tangki,Unit,7,0,Mobil Barang,Tidak Umum,2023
+11,Pemadam Api,Unit,0,0,Mobil Barang,Tidak Umum,2023
+12,Traktor,Unit,0,0,Mobil Barang,Tidak Umum,2023
+13,Pick Up,Unit,33,803,Mobil Barang,Tidak Umum,2023
+14,Lain-Lain,Unit,0,0,Mobil Barang,Tidak Umum,2023
+15,Bus Biasa,Unit,0,2,Bis,Tidak Umum,2023
+16,Mini Bus,Unit,1,10,Bis,Tidak Umum,2023
+17,Scooter,Unit,0,4,Sepeda Motor,Tidak Umum,2023
+18,SPM 50 CC keatas,Unit,1044,17129,Sepeda Motor,Tidak Umum,2023
+19,Sedan,Unit,0,0,Mobil Penumpang,Umum,2023
+20,Jeep,Unit,0,0,Mobil Penumpang,Umum,2023
+21,Station Wagon,Unit,0,0,Mobil Penumpang,Umum,2023
+22,Mini Cab,Unit,0,176,Mobil Penumpang,Umum,2023
+23,Ambulance,Unit,0,0,Mobil Penumpang,Umum,2023
+24,Truk/Kontainer,Unit,0,15,Mobil Barang,Umum,2023
+25,Double Cabin,Unit,0,58,Mobil Barang,Umum,2023
+26,Barang,Unit,0,0,Mobil Barang,Umum,2023
+27,Trailer,Unit,0,0,Mobil Barang,Umum,2023
+28,Truk Tangki,Unit,0,0,Mobil Barang,Umum,2023
+29,Pemadam Api,Unit,0,0,Mobil Barang,Umum,2023
+30,Traktor,Unit,0,0,Mobil Barang,Umum,2023
+31,Pick Up,Unit,0,15,Mobil Barang,Umum,2023
+32,Lain-Lain,Unit,0,0,Mobil Barang,Umum,2023
+33,Bus Biasa,Unit,0,6,Bis,Umum,2023
+34,Mini Bus,Unit,0,3,Bis,Umum,2023
+35,Scooter,Unit,0,0,Sepeda Motor,Umum,2023
+36,SPM 50 CC keatas,Unit,0,991,Sepeda Motor,Umum,2023
